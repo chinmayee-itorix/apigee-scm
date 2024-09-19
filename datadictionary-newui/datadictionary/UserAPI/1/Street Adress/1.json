@@ -1,0 +1,1 @@
+{"Street Adress":{"type":"object","properties":{"street_address":{"$ref":"#/definitions/string"},"city":{"$ref":"#/definitions/string"},"state":{"$ref":"#/definitions/string"}}},"definitions":{}}

@@ -1,0 +1,1 @@
+{"Conditional Validation with If-Else":{"type":"object","properties":{"isMember":{"type":"boolean"},"membershipNumber":{"$ref":"#/definitions/string"}}},"definitions":{}}

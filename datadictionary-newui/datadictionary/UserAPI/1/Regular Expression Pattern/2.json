@@ -1,0 +1,1 @@
+{"Regular Expression Pattern":{"type":"object","properties":{"code":{"pattern":"^[A-Z]{3}-\\d{3}$","$ref":"#/definitions/string"}}},"definitions":{}}

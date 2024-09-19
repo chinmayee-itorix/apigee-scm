@@ -1,0 +1,1 @@
+{"Conditional Validation with dependentSchemas":{"type":"object","properties":{"foo":{"type":"boolean"},"propertiesCount":{"type":"integer","minimum":0}}},"definitions":{}}

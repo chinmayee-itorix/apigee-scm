@@ -1,0 +1,1 @@
+{"Arrays":{"type":"object","properties":{"fruits":{"type":"array","items":{"$ref":"#/definitions/string"}},"vegetables":{"type":"array","items":{"$ref":"#/$defs/veggie"}}}},"definitions":{}}

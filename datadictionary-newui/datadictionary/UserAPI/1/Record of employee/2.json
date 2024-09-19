@@ -1,0 +1,1 @@
+{"Record of employee":{"type":"object","properties":{"id":{"description":"A unique identifier for an employee","type":"number"}}},"definitions":{}}

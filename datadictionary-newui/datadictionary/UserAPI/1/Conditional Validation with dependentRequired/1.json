@@ -1,0 +1,1 @@
+{"Conditional Validation with dependentRequired":{"type":"object","properties":{"foo":{"type":"boolean"},"bar":{"$ref":"#/definitions/string"}}},"definitions":{}}

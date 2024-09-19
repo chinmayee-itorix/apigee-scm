@@ -1,0 +1,1 @@
+{"New Model 24":{"type":"object","properties":{"first_name":{"$ref":"#/$defs/name"},"last_name":{"$ref":"#/$defs/name"},"shipping_address":{"$ref":"#/definitions//schemas/address"},"billing_address":{"$ref":"#/definitions//schemas/address"}}},"definitions":{}}
