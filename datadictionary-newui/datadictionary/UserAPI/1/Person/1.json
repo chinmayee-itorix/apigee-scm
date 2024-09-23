@@ -1,1 +1,0 @@
-{"Person":{"type":"object","properties":{"firstName":{"description":"The person's first name.","$ref":"#/definitions/string"},"lastName":{"description":"The person's last name.","$ref":"#/definitions/string"},"age":{"description":"Age in years which must be equal to or greater than zero.","type":"integer","minimum":0}}},"definitions":{}}

@@ -1,1 +1,0 @@
-{"Enumerated Values":{"type":"object","properties":{"data":{"enum":[42,true,"hello",null,[1,2,3]]}}},"definitions":{}}

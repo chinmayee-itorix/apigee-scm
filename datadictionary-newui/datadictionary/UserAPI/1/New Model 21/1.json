@@ -1,1 +1,0 @@
-{"New Model 21":{"type":"object","properties":{"street_address":{"$anchor":"street_address","$ref":"#/definitions/string"},"city":{"$ref":"#/definitions/string"},"state":{"$ref":"#/definitions/string"}}},"definitions":{}}

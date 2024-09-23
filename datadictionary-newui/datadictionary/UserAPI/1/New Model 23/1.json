@@ -1,1 +1,0 @@
-{"New Model 23":{"type":"object","properties":{"first_name":{"$ref":"#/definitions/string"},"last_name":{"$ref":"#/definitions/string"},"shipping_address":{"$ref":"#/definitions/https://example.com/schemas/address"},"billing_address":{"$ref":"#/definitions//schemas/address"}}},"definitions":{}}
